@@ -9,7 +9,7 @@ projects that utilize DNA sequence data generated from a hands-on lab experiment
 
 ## Login info
 
-- Hackpad Address: https://hackmd.io/@foss/biocoding-2021/edit
+- Hackpad Address: [https://hackmd.io/@foss/biocoding-2021/edit](https://hackmd.io/@foss/biocoding-2021/edit)
 - Jupyter Hub Address:
 
 You will be informed of your usernames and passwords during the class.
